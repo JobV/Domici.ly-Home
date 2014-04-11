@@ -1,0 +1,15 @@
+@import 'semantic-ui';
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+  
+.head {
+  height: 800px;
+  text-align: center;
+
+  h1 {
+    font-size: 5rem;
+    padding-top: 200px;
+    font-family: 'Raleway';
+    font-weight: 400;
+  }
+}
