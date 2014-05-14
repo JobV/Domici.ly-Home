@@ -1,5 +1,6 @@
 @import 'bootstrap';
 @charset "utf-8";
+@import 'animate';
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
 
 body {
@@ -93,4 +94,10 @@ body {
   background: white;
   border-color: #fff;
   color: #1f8dd6;
+}
+
+#list-form {
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
 }
