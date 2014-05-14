@@ -1,7 +1,16 @@
-@import 'semantic-ui';
+@import 'bootstrap';
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
-  
+
+body {
+  background: #1f8dd6;
+}
+
+.header {
+  background: #1f8dd6;
+  color: white;
+}
+
 .head {
   height: 800px;
   text-align: center;
@@ -12,7 +21,6 @@
     font-family: 'Raleway';
     font-weight: 400;
     margin: 0;
-    color: #555;
   }
 }
 
@@ -28,11 +36,11 @@
   margin: 20px;
   margin-top: 0px;
   padding: 0;
-  color: #564F8A;
+  color: #fff;
 }
 
 .email-signup {
-  color: #555;
+  // color: #555;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -41,18 +49,25 @@
 }
 
 #mc_embed_signup .mc-field-group input {
-  border: 2px solid #564F8A;
+  border: 2px solid #fff;
   border-radius: 5px;
+  background: none repeat scroll 0% 0% #1f8dd6;
 }
 
 #mc_embed_signup .button {
-  background-color: #564F8A;
-  -webkit-transition: background-color 0.4s; /* For Safari 3.1 to 6.0 */
-  transition: background-color 0.4s;
+  background-color: #fff;
+  -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  transition: all 0.4s;
+  color: #1f8dd6;
+  border: 2px solid #fff;
+  width: 275px;
+  margin-left: -5px;
 }
 
 #mc_embed_signup .button:hover {
-  background-color: #867CD4;
+  background-color: #1f8dd6;
+  border: 2px solid #fff;
+  color: #fff;
 }
 
 #mc_embed_signup {
@@ -62,4 +77,20 @@
 
 #mc_embed_signup form {
   text-align: center !important;
+}
+
+.btn-default {
+  background: #1f8dd6;
+  color: white;
+  border-color: white;
+  border-width: 2px;
+  font-weight: bold;
+  -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  transition: all 0.4s;
+}
+
+.btn-default:hover {
+  background: white;
+  border-color: #fff;
+  color: #1f8dd6;
 }
