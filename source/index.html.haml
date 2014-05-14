@@ -12,19 +12,14 @@ title: Domici.ly
   %h1
     Betere communicatie in jouw vereniging
 
-  .center
+  .email-signup
     / Begin MailChimp Signup Form
-    %link{href: "//cdn-images.mailchimp.com/embedcode/classic-081711.css", rel: "stylesheet", type: "text/css"}/
-    :css
-      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
-      /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     #mc_embed_signup
       %form#mc-embedded-subscribe-form.validate{action: "http://jaxons.us3.list-manage.com/subscribe/post?u=e92d94da6f54f53f01adb5c5f&id=4e622e14de", method: "post", name: "mc-embedded-subscribe-form", novalidate: "", target: "_blank"}
-        %h2 Ik wil graag updates ontvangen over Domici.ly!
+        %h2 Houd me op de hoogte
         .mc-field-group
-          %label{for: "mce-EMAIL"} Email Address
-          %input#mce-EMAIL.required.email{name: "EMAIL", type: "email", value: ""}/
+          / %label{for: "mce-EMAIL"} Emailadres
+          %input#mce-EMAIL.required.email{name: "EMAIL", type: "email", value: "", placeholder: 'Email'}/
         #mce-responses.clear
           #mce-error-response.response{style: "display:none"}
           #mce-success-response.response{style: "display:none"}
@@ -32,5 +27,5 @@ title: Domici.ly
         %div{style: "position: absolute; left: -5000px;"}
           %input{name: "b_e92d94da6f54f53f01adb5c5f_4e622e14de", type: "text", value: ""}/
         .clear
-          %input#mc-embedded-subscribe.button{name: "subscribe", type: "submit", value: "Subscribe"}/
+          %input#mc-embedded-subscribe.button{name: "subscribe", type: "submit", value: "Schrijf mij in"}/
     / End mc_embed_signup
