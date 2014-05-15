@@ -6,8 +6,8 @@ $(document).ready(function() {
 
   $('#logo').addClass('animated slideInLeft');
 
-  $('#lead-text').addClass('animated bounceInDown');
-
   $('#list-form').addClass('animated fadeIn');
+
+  $('#sign-in-button').addClass('animated bounceInUp');
 
 });
