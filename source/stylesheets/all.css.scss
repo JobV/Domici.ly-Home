@@ -99,8 +99,42 @@ body {
   color: #1f8dd6;
 }
 
+.btn-contact {
+  background: #1f8dd6;
+  color: white;
+  font-weight: bold;
+  -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  transition: all 0.4s;
+  margin-right: 30px;
+}
+
 #list-form {
   animation-delay: 1s;
   -webkit-animation-delay: 1s;
   -moz-animation-delay: 1s;
+}
+
+.contact-info-head {
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  border: 2px solid #fff;
+  border-bottom: 0;
+  font-family: Raleway;
+  width: 600px;
+  padding: 15px;
+  color: #fff;
+}
+.contact-info {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #fff;
+  width: 600px;
+  padding: 15px;
+  color: #fff;
+}
+.center {
+  text-align: center;
+  margin-top: 50px;
 }

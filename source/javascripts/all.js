@@ -8,6 +8,6 @@ $(document).ready(function() {
 
   $('#list-form').addClass('animated fadeIn');
 
-  $('#sign-in-button').addClass('animated bounceInUp');
+  $('#contact').addClass('animated fadeInDown');
 
 });
