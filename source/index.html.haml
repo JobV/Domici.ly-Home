@@ -2,12 +2,11 @@
 title: Domici.ly
 ---
 %nav.navbar.navbar-fixed-top
-  .container
-    %a.btn.btn-default.btn-lg.navbar-btn.navbar-right{ href: 'http://app.domici.ly/users/sign_in' }
-      Log in
+  %a.btn.btn-default.btn-lg.navbar-btn.navbar-right.login{ href: 'http://app.domici.ly/users/sign_in' }
+    Log in
 
-    %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/contact' }
-      Contact
+  %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/contact' }
+    Contact
 
 .header
   .domicily
@@ -35,3 +34,6 @@ title: Domici.ly
           .clear
             %input#mc-embedded-subscribe.button{name: "subscribe", type: "submit", value: "Houd me op de hoogte"}/
       / End mc_embed_signup
+
+.container
+  = partial 'pricing'
