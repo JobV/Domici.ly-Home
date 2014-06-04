@@ -10,4 +10,5 @@ $(document).ready(function() {
 
   $('#contact').addClass('animated fadeInDown');
 
+  $('.carousel').carousel();
 });

@@ -15,7 +15,7 @@ body {
 }
 
 .head {
-  height: 800px;
+  height: 600px;
   text-align: center;
 
   h1 {
@@ -223,4 +223,8 @@ body {
 .p-m {
   font-size: 0.5em;
   color: rgba(255,255,255,0.8);
+}
+
+#lead-text {
+  color: white !important;
 }
