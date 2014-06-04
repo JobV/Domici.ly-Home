@@ -3,6 +3,8 @@
 @import 'animate';
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
 
+$base: #1f8dd6;
+
 body {
   background: #1f8dd6;
 }
@@ -90,6 +92,7 @@ body {
   border-width: 2px;
   font-weight: bold;
   -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  -moz-transition: all 0.4s;
   transition: all 0.4s;
 }
 
@@ -148,6 +151,7 @@ body {
 }
 
 .pricing {
+  margin-bottom: 100px;
   border: 2px solid #fff;
   border-radius: 5px;
   width: 300px;
@@ -176,4 +180,47 @@ body {
     margin: 15px;
     text-align: center;
   }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 0;
+  }
+
+  li {
+    text-decoration: none;
+    color: white;
+    border-top: 2px solid #fff;
+    text-align: center;
+    padding: 7px 0px;
+  }
+}
+
+.pricing {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-tbl {
+  text-align: center;
+}
+
+.btn-action {
+  background: #fff;
+  border: 2px solid #fff;
+  color: $base;
+  -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+  font-weight: 700;
+}
+
+.btn-action:hover {
+  background: $base;
+  color: #fff;
+}
+
+.p-m {
+  font-size: 0.5em;
+  color: rgba(255,255,255,0.8);
 }
