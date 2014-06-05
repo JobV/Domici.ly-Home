@@ -247,5 +247,35 @@ body {
 
 .features {
   padding-top: 100px;
+  padding-bottom: 200px;
   text-align: center;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+  h1 {
+    font-family: Raleway;
+    font-size: 4.5em;
+    font-weight: 700;
+  }
+}
+
+.jaxons {
+  color: white;
+  border: 5px solid #333;
+  background-color: rgba(0,0,0,0.0);
+  padding: 20px 30px;
+  font-size: 3em;
+  font-weight: 700;
+  -webkit-transition: all 0.7s; /* For Safari 3.1 to 6.0 */
+  -moz-transition: all 0.7s;
+  transition: all 0.7s;
+}
+
+.jaxons:hover {
+  color: white;
+  text-decoration: none;
+  background-color: #333;
 }
