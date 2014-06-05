@@ -123,6 +123,8 @@ body {
   margin-right: auto;
   margin-bottom: 0;
   border: 2px solid #fff;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
   border-bottom: 0;
   font-family: Raleway;
   width: 600px;
@@ -133,6 +135,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   border: 2px solid #fff;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
   width: 600px;
   padding: 15px;
   color: #fff;
@@ -227,4 +231,21 @@ body {
 
 #lead-text {
   color: white !important;
+}
+
+.icon {
+  color: white;
+  font-size: 2.5em;
+  -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.active {
+  color: #CBEAFF;
+}
+
+.features {
+  padding-top: 100px;
+  text-align: center;
 }

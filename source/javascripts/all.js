@@ -10,5 +10,17 @@ $(document).ready(function() {
 
   $('#contact').addClass('animated fadeInDown');
 
-  $('.carousel').carousel();
+  $('.pic').hide();
+  $('.pic:first').show();
+  $('.icon:first').addClass('active');
+
+  $('.icon').hover(function(){
+    $('.icon').removeClass('active');
+    $(this).addClass('active');
+
+    var currentTab = $(this).attr('href');
+    $('.pic').hide();
+    $(currentTab).show();
+    return false;
+  });
 });
