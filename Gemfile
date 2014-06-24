@@ -16,3 +16,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem 'bootstrap-sass'
 
 gem 'jquery-middleman'
+
+gem 'middleman-blog'
