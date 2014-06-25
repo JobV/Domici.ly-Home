@@ -28,8 +28,7 @@ body {
   background: #fff;
   color: #1f8dd6;
   border-color: #1f8dd6;
-  border-width: 2px;
-  font-weight: bold;
+  border-width: 1px;
   -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
   -moz-transition: all 0.4s;
   transition: all 0.4s;
@@ -44,7 +43,6 @@ body {
 .btn-contact {
   background: none;
   color: #1f8dd6;
-  font-weight: bold;
   -webkit-transition: all 0.4s; /* For Safari 3.1 to 6.0 */
   transition: all 0.4s;
   // margin-right: 30px;
