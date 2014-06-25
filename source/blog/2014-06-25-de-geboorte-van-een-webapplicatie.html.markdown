@@ -38,6 +38,7 @@ Wie kan ons namelijk beter aangeven of de *features* makkelijk en intuitief te g
 
 De ontwikkeling van Domici.ly gaat door, ook na lancering. Wij willen in samenwerking met de gebruikers aan Domici.ly blijven bouwen. 
 
-Dit is een van de grondslagen van Software as a service. Omdat Domici.ly op onze Europese servers draait, kunnen wij direct updates doorvoeren. De gebruiker ondervindt daarvan alleen de lusten en niet de lasten.
+Dit is een van de grondslagen van *Software as a service*. Omdat Domici.ly op onze Europese servers draait, kunnen wij direct updates doorvoeren. De gebruiker ondervindt daarvan alleen de lusten en niet de lasten.
 
 Op deze wijze zullen wij alsmede Domici.ly ons blijven ontwikkelen.
+
