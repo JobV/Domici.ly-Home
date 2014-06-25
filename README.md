@@ -63,3 +63,21 @@ middleman article TITLE
 ```
 
 Nu zie je in Sublime onder blog/ een nieuwe, lege blog ding.
+
+Schrijf je blog post. Geef je titel op in het bovenste stukje.
+
+Als je klaar bent en hebt opgeslagen, check de veranderingen in git:
+
+```
+git status
+```
+
+Klopt het? Commit het dan:
+
+```
+git add .
+git commit -m 'hier wat je hebt gepost'
+git push
+```
+
+Nu staat het op GitHub, maar nog niet op de server. Daarvoor moet je naar Heroku pushen:
