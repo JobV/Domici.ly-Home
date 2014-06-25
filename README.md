@@ -81,3 +81,16 @@ git push
 ```
 
 Nu staat het op GitHub, maar nog niet op de server. Daarvoor moet je naar Heroku pushen:
+
+Eerste keer:
+
+```
+git remote add hu git@heroku.com:domcili-landing.git
+```
+
+En altijd:
+
+```
+git push hu master
+```
+
