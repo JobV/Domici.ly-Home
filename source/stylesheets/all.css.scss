@@ -55,6 +55,8 @@ body {
   border: 2px solid #fff;
   border-radius: 5px;
   background: none repeat scroll 0% 0% #1f8dd6;
+  padding: 10px;
+  width: 100%;
 }
 
 #mc_embed_signup .button {
@@ -64,10 +66,12 @@ body {
   color: #1f8dd6;
   border: 2px solid #fff;
   width: 275px;
-  margin-left: -5px;
   padding-top: 10px;
   padding-bottom: 10px;
   height: 100%;
+  width: 100%;
+  border-radius: 5px;
+  margin-top: 10px;
 }
 
 #mc_embed_signup .button:hover {
