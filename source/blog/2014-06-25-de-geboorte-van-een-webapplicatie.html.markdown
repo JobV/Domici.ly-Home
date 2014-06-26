@@ -2,6 +2,7 @@
 title: De geboorte van een webapplicatie
 date: 2014-06-25 12:19 UTC
 tags:
+layout: article
 ---
 
 21 juni 2014 was het zover: onze eerste webapplicatie, [Domici.ly](http://domici.ly), is live! Hieraan is een heel traject vooraf gegaan. In dit eerste artikel van ons blog zullen wij vertellen over de geboorte van Domici.ly.

@@ -2,21 +2,6 @@
 pageable: true
 per_page: 10
 ---
-%nav.navbar
-  .header
-    .domicily
-      %h1#logo Domici.ly
-  %a.btn.btn-default.btn-lg.navbar-btn.navbar-right.login{ href: 'http://app.domici.ly/users/sign_in' }
-    Log in
-
-  %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/contact' }
-    Contact
-
-  %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/' }
-    Home
-
-  .top-right#sign-in-button
-
 - if paginate && num_pages > 1
   %p
     Page #{page_number} of #{num_pages}
@@ -27,13 +12,17 @@ per_page: 10
   .entry
     .title
       %h1
-        = article.title
+        = link_to article.title, article
       .date
         = article.date.strftime('%b %e')
 
     .body
       = article.body
 
+    %a.btn.btn-default.btn-lg.btn-block{href: 'http://app.domici.ly/users/sign_up'}
+      Probeer Domici.ly gratis!
+
 - if paginate
   - if next_page
     %p= link_to 'Next page', next_page
+
