@@ -6,7 +6,7 @@ tags:
 
 21 juni 2014 was het zover: onze eerste webapplicatie, [Domici.ly](http://domici.ly), is live! Hieraan is een heel traject vooraf gegaan. In dit eerste artikel van ons blog zullen wij vertellen over de geboorte van Domici.ly.
 
-##Probleem in de VvE-mark
+##Probleem in de VvE-markt
 
 Tijdens een gesprek met bestuurders van een omvangrijke VvE kwamen wij te spreken over de gebrekkige communicatie tussen eigenaars, bestuurders en de beheerder. Dit is  een veelgehoord probleem in de VvE-markt.
 
