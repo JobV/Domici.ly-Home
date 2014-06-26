@@ -22,9 +22,9 @@ Hierdoor weet het bestuur welke problemen spelen en kunnen deze problemen worden
 
 ##Eenvoud
 
-Al snel kwamen wij tot andere *features* die handig waren voor een VvE. Zo dachten wij aan een agendafunctie en aan een digitaal prikbord. Deze *features* tezamen zullen een communicatieplaform creëren waarop een VvE kan werken.
+Al snel kwamen wij tot andere *features* die handig waren voor een VvE. Zo dachten wij aan een agendafunctie en aan een digitaal prikbord. Deze features tezamen zullen een communicatieplaform creëren waarop een VvE kan werken.
 
-Hierin zagen wij ook meteen een gevaar. Meer *features* verhogen de waarde van een webapplicatie, maar brengen het risico met zich mee het geheel onoverzichtelijk te maken. 
+Hierin zagen wij ook meteen een gevaar. Meer features verhogen de waarde van een webapplicatie, maar brengen het risico met zich mee het geheel onoverzichtelijk te maken. 
 
 Overbodige keuzes moeten bij de gebruiker worden weggenomen. Met een minimaal aantal handelingen moet de gebruiker iets kunnen doen. De kracht ligt volgens ons daarom in eenvoud.  Daardoor blijft de gebruiksvriendelijkheid gewaarborgd.
 
@@ -32,7 +32,7 @@ Overbodige keuzes moeten bij de gebruiker worden weggenomen. Met een minimaal aa
 
 In een vroeg stadium hebben wij Domici.ly aangeboden aan een aantal VvE’s. Nog voordat alle basisfuncties erin zaten.
 
-Wie kan ons namelijk beter aangeven of de *features* makkelijk en intuitief te gebruiken zijn dan de gebruiker zelf? Een aantal enthousiaste bestuurders heeft ons van kritiek voorzien zonder welk Domici.ly er niet zo had uitgezien.
+Wie kan ons namelijk beter aangeven of de features makkelijk en intuitief te gebruiken zijn dan de gebruiker zelf? Een aantal enthousiaste bestuurders heeft ons van kritiek voorzien zonder welk Domici.ly er niet zo had uitgezien.
 
 ## Groei
 
@@ -42,3 +42,4 @@ Dit is een van de grondslagen van *Software as a service*. Omdat Domici.ly op on
 
 Op deze wijze zullen wij alsmede Domici.ly ons blijven ontwikkelen.
 
+<br />
