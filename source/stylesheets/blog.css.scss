@@ -95,4 +95,18 @@ body {
   p {
     margin-bottom: 20px;
   }
+
+  p:last {
+    margin-bottom: 5px;
+  }
+
+  .fb-like {
+    margin-bottom: 20px;
+  }
+  .twitter {
+    display: inline-block;
+    text-align: right;
+    top: 5px;
+    position: relative;
+  }
 }
