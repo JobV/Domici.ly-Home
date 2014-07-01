@@ -18,3 +18,5 @@ gem 'bootstrap-sass'
 gem 'jquery-middleman'
 
 gem 'middleman-blog'
+
+gem 'nokogiri'

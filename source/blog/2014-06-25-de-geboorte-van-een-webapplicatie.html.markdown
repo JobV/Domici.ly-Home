@@ -2,6 +2,7 @@
 title: De geboorte van een webapplicatie
 date: 2014-06-25 12:19 UTC
 tags:
+layout: article
 ---
 
 21 juni 2014 was het zover: onze eerste webapplicatie, [Domici.ly](http://domici.ly), is live! Hieraan is een heel traject vooraf gegaan. In dit eerste artikel van ons blog zullen wij vertellen over de geboorte van Domici.ly.
@@ -13,6 +14,8 @@ Tijdens een gesprek met bestuurders van een omvangrijke VvE kwamen wij te spreke
 In de wandelgangen worden zaken besproken. Het emailverkeer loopt langs elkaar heen. De beheerder handelt zonder afstemming met het bestuur. Structuur is ver te zoeken in deze Babylonische brij. 
 
 Dit bracht ons op het idee voor een webapplicatie. 
+
+READMORE
 
 ##Melding
 
