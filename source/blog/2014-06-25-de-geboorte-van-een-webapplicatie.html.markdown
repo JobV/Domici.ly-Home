@@ -15,6 +15,8 @@ In de wandelgangen worden zaken besproken. Het emailverkeer loopt langs elkaar h
 
 Dit bracht ons op het idee voor een webapplicatie. 
 
+READMORE
+
 ##Melding
 
 En dit was een eenvoudig idee. Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester. Vervolgens moet voor de betrokkenen inzichtelijk zijn hoe het ervoor staat met deze melding.
