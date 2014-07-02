@@ -6,11 +6,13 @@ tags:
 
 Onze iPhones trillen; een bericht op *Slack*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successful”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
 
-In [De geboorte van een webapplicatie](http://domicily/blog) hebben wij de feature meldingen kort genoemd.  Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester.
+In [De geboorte van een webapplicatie](http://www.domici.ly/blog/2014/06/25/de-geboorte-van-een-webapplicatie.html) hebben wij de feature meldingen kort genoemd.  Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester.
 
 De afgelopen week hebben wij veel tijd besteed aan het verbeteren van meldingen en nu is het resultaat daar. Zowel de look als ook de functionaliteit is verbeterd.
 
 Hieronder gaan wij wat dieper in op deze feature en zullen wij toelichten waarom een melding eruit ziet zoals deze er nu uitziet. Hieraan zijn heel wat cycli van updates vooraf gegaan.
+
+READMORE
 
 ![screenshot melding](/images/Screenshotmelding.png)
 
@@ -47,5 +49,3 @@ De eerste stap hebben wij gezet met de toevoeging van “labels” en de mogelij
 Om verder structuur aan te brengen in alle meldingen en ervoor te zorgen dat geen melding op “nieuw” blijft staan gaan wij niet alle meldingen meteen zichtbaar laten zijn voor iedereen. 
 
 Over de ordening van meldingen zullen wij meer vertellen zodra wij het bericht “deployment successful” voor de betreffende update hebben ontvangen.
-
-<br />
