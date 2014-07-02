@@ -1,7 +1,8 @@
 ---
 title: Meer over meldingen
-date: 2014-07-02 12:00 UTC
+date: 2014-07-02
 tags:
+layout: article
 ---
 
 Onze iPhones trillen; een bericht op *Slack*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successful”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
