@@ -1,0 +1,82 @@
+!!!
+%html
+  %head
+    %meta{charset: "utf-8"}/
+    / Always force latest IE rendering engine or request Chrome Frame
+    %meta{content: "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
+    / Use title if it's in the page YAML frontmatter
+    %title= current_page.data.title || "Domici.ly Blog"
+    = stylesheet_link_tag "normalize", "blog"
+    = javascript_include_tag  "all"
+    :javascript
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-46292577-2', 'domici.ly');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+  %body{class: page_classes}
+    :plain
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=132742243480949&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+    %nav.navbar
+      .header
+        .domicily
+          %h1#logo Domici.ly
+      %a.btn.btn-default.btn-lg.navbar-btn.navbar-right.login{ href: 'http://app.domici.ly/users/sign_in' }
+        Log in
+
+      %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/contact' }
+        Contact
+
+      %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/blog' }
+        Blog
+
+      %a.btn.btn-contact.btn-lg.navbar-btn.navbar-right{ href: '/' }
+        Home
+
+      .top-right#sign-in-button
+
+    .entry
+      .title
+        %h1
+          = current_article.title
+        .date
+          = current_article.date.strftime('%b %e')
+
+      .body
+        = yield
+        .twitter
+          <a href="https://twitter.com/share" class="twitter-share-button" data-via="Domicily" data-lang="en" data-count="none">Tweeten</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+        .fb-like{"data-action" => "like", "data-href" => "https://www.facebook.com/domici.ly", "data-layout" => "standard", "data-share" => "true", "data-show-faces" => "true"}
+
+
+      %a.btn.btn-default.btn-lg.btn-block.try-free{href: 'http://app.domici.ly/users/sign_up'}
+        Probeer Domici.ly gratis!
+
+      :plain
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'domicily'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        

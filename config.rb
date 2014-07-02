@@ -2,6 +2,7 @@ activate :blog do |blog|
   blog.prefix = "blog"
   blog.sources = "{year}-{month}-{day}-{title}.html"
   blog.layout = "blog_index"
+  blog.summary_separator = /READMORE/
 end
 
 page "/blog", layout: "blog_index"
