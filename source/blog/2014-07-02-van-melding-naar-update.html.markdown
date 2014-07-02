@@ -5,7 +5,7 @@ tags:
 layout: article
 ---
 
-Onze iPhones trillen; een bericht op *Slack*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successful”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
+Onze iPhones trillen; een bericht op *[Slack](https://slack.com)*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successful”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
 
 In [De geboorte van een webapplicatie](http://www.domici.ly/blog/2014/06/25/de-geboorte-van-een-webapplicatie.html) hebben wij de feature meldingen kort genoemd.  Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester.
 
