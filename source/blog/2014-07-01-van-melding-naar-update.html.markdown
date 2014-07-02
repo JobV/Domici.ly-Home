@@ -4,15 +4,13 @@ date: 2014-07-02 12:00 UTC
 tags:
 ---
 
-Onze iPhones trillen; een bericht op *Slack*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successfully”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
+Onze iPhones trillen; een bericht op *Slack*, onze bedrijfsmatige *WhatsApp*. Het bericht leest: “deployment started”. Gevolgd door: “deployment successful”. Dit laatste, geautomatiseerde bericht is een leuk moment. Dit betekent namelijk dat [Domici.ly](http://domici.ly) geüpdate is.
 
-In [De geboorte van een webapplicatie](http://www.domici.ly/blog/2014/06/25/de-geboorte-van-een-webapplicatie.html) hebben wij de feature meldingen kort genoemd.  Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester.
+In [De geboorte van een webapplicatie](http://domicily/blog) hebben wij de feature meldingen kort genoemd.  Een eigenaar moet een probleem kunnen melden en deze melding moet toegewezen kunnen worden aan een persoon, bijvoorbeeld de huismeester.
 
-De afgelopen week hebben wij veel tijd besteed aan het verbeteren van meldingen en nu is het resultaat daar. Zowel de look als de functionaliteit is verbeterd.
+De afgelopen week hebben wij veel tijd besteed aan het verbeteren van meldingen en nu is het resultaat daar. Zowel de look als ook de functionaliteit is verbeterd.
 
-Hieronder gaan gaan wij wat dieper in op deze feature en zullen wij toelichten waarom een melding eruit ziet zoals deze er nu uitziet. Hieraan zijn heel wat cycli van updates vooraf gegaan.
-
-READMORE
+Hieronder gaan wij wat dieper in op deze feature en zullen wij toelichten waarom een melding eruit ziet zoals deze er nu uitziet. Hieraan zijn heel wat cycli van updates vooraf gegaan.
 
 ![screenshot melding](/images/Screenshotmelding.png)
 
@@ -32,7 +30,7 @@ Naar gelang actie wordt ondernomen kan de melding van status veranderen. Een mel
 
 ## Communicatie omtrent een melding
 
-De maker van de melding en de toegewezene worden automatisch per email op de hoogte gehouden van aanpassingen van de melding. Omdat deze informatie ook relevant kan zijn voor anderen, kunnen derden “deelnemen” aan de melding. Alle deelnemers ontvangen emailnotificaties over deze meldingen blijven daardoor op de hoogte.
+De maker van de melding en de toegewezene worden automatisch per email op de hoogte gehouden van aanpassingen van de melding. Omdat deze informatie ook relevant kan zijn voor anderen, kunnen derden “deelnemen” aan de melding. Alle deelnemers ontvangen emailnotificaties over deze meldingen, waardoor zij op de hoogte blijven.
 
 Onder iedere melding kunnen gebruikers vragen stellen of opmerkingen plaatsen met betrekking tot die melding. Deelnemers aan deze discussie ontvangen eveneens emailnotificaties. Hierdoor worden gebruikers erbij betrokken en blijft de discussie gebonden aan de melding.
 
