@@ -1,3 +1,13 @@
+# Stappenplan
+
+1. Maak een blog, zie hieronder
+2. Deploy blog
+3. Deel op Facebook
+4. Deel op Twitter
+5. Verstuur naar lijsten met Mailchimp
+
+# Elke keer
+
 open terminal
 ga naar de juiste folder met:
 
