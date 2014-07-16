@@ -6,7 +6,7 @@ layout: article
 ---
 Gebruiksvriendelijkheid en eenvoud maken een webapplicatie aantrekkelijk. Dit vindt zijn neerslag in het uiterlijk van de webapplicatie en de positionering van de features en knoppen. De gebruiker moet intuïtief zijn weg door de applicatie kunnen vinden.
 
-Daarbij gaat het met name om hoe de applicatie eruit ziet. Naast goede looks moet de applicatie ook goed aanvoelen. In [Eating our own dog food(http://www.domici.ly/blog/2014/07/09/eating-our-own-dog-food.html) hebben wij verteld hoe wij aan Domici.ly werken door Domici.ly zelf te gebruiken. Hoe Domici.ly aanvoelt is iets waarop wij sterk letten.
+Daarbij gaat het met name om hoe de applicatie eruit ziet. Naast goede looks moet de applicatie ook goed aanvoelen. In [Eating our own dog food](http://www.domici.ly/blog/2014/07/09/eating-our-own-dog-food.html) hebben wij verteld hoe wij aan Domici.ly werken door Domici.ly zelf te gebruiken. Hoe Domici.ly aanvoelt is iets waarop wij sterk letten.
 
 Hieronder staan wij stil bij de user experience van [Domici.ly](http://www.domici.ly).
 
@@ -38,4 +38,4 @@ Domici.ly reageert in toenemende mate op acties van de gebruiker en die reacties
 
 Deze stabiliteit zal de user experience ten goede komen. Gelijkelijk met de stabiliteit van de webapplicatie neemt ook de stabiliteit van onszelf toe. 
 
-Job is namelijk verloofd! Onze medevennonoot gaat [trouwen](https://medium.com/@jobv/we-go-together-601d20b38c18)! Wij zijn zeer verheugt met dit nieuws. Mocht je Job willen feliciteren, stuur dan gerust een [mailtje](mailto:job@domici.ly).
+Job is namelijk verloofd! Onze medevennoot gaat [trouwen](https://medium.com/@jobv/we-go-together-601d20b38c18)! Wij zijn zeer verheugt met dit nieuws. Mocht je Job willen feliciteren, stuur dan gerust een [mailtje](mailto:job@domici.ly).
