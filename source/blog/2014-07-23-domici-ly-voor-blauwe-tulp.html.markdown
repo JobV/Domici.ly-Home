@@ -20,9 +20,9 @@ De prijs, de blauwe tulp, is een innovatie die nog niet is gemaakt door de tulpe
 
 ## Communications en Financial Services
 
-Wij doen mee in twee categoriën, te weten *Communications* en *Financial Services*. De eerste categorie ligt voor de hand. Domici.ly staat immers voor makkelijke communicatie voor VvE’s. 
+Wij doen mee in twee categorieën, te weten *Communications* en *Financial Services*. De eerste categorie ligt voor de hand. Domici.ly staat immers voor makkelijke communicatie voor VvE’s. 
 
-De tweede categorie is wellicht minder voor de hand liggend. Domici.ly is een merk van JAXONS, onze financiële en juridische dienstverlener. Daarom kunnen wij gebruikers van Domici.ly voorzien van onder meer financiële dienstverlening. Wij streven namelijk naar een full service platform door onze klanten een webappliatie te bieden met daarachter een dienstverlener.   
+De tweede categorie is wellicht minder voor de hand liggend. Domici.ly is een merk van JAXONS, onze financiële en juridische dienstverlener. Daarom kunnen wij gebruikers van Domici.ly voorzien van onder meer financiële dienstverlening. Wij streven namelijk naar een full service platform door onze klanten een webapplicatie te bieden met daarachter een dienstverlener.   
 
 ## Blauwe tulp
 
