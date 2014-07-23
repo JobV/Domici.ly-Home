@@ -4,6 +4,8 @@ date: 2014-07-23 10:38 UTC
 tags:
 layout: article
 ---
+[Stem op Domici.ly!](https://innovation-awards.nl/concept/domici-ly/)
+
 Begin deze week kregen wij bericht dat onze inschrijving voor de [Accenture Innovation Awards](https://innovation-awards.nl/) (AIA) is geaccepteerd! De AIA is een jaarlijks terugkerende wedstrijd voor concepten jonger dan drie jaar. 
 
 Aan de AIA kunnen ook concepten deelnemen die alleen op papier bestaan. Wij hebben met Domici.ly al een werkende SaaS, die wij doorlopend aan het verbeteren zijn. Zoals uitgelegd in [Harder, beter, sneller en sterker](http://www.domici.ly/blog/2014/07/16/harder-beter-sneller-en-sterker.html) en in [Eating our own dog food](http://www.domici.ly/blog/2014/07/09/eating-our-own-dog-food.html). Daarop zijn wij best trots!
