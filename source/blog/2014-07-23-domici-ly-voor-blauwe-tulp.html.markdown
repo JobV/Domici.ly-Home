@@ -34,7 +34,7 @@ Vervolgens zullen medio oktober de finalisten bekend worden gemaakt.
 
 ## Publieksprijs
 
-Naast de blauwe tulp wordt ook een publieksprijs uitgereikt. De publieksprijs gaat naar het concept met de meeste stemmen. Iedereen kan stemmen op zijn of haar favoriete concept via Linkedin, Twitter, Facebook en Email. Zo kan iemand vier keer stemmen op hetzelfde concept. 
+Naast de blauwe tulp wordt ook een publieksprijs uitgereikt. De publieksprijs gaat naar het concept met de meeste stemmen. Iedereen kan stemmen op zijn of haar favoriete concept via Linkedin, Twitter, Facebook en Email. 
 
 Stem dus op [ons](https://innovation-awards.nl/concept/domici-ly/)!
 
